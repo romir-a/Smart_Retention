@@ -9,5 +9,5 @@ This code is specifically run on Washington Park lake in Albany, NY
 Files in this repository: 
 
 - Precip_data.csv : Precipitation Data from Albany Airport from 2003-2013
-- Urban Storm Water.ipynb : Modeling Code
+- Urban Stormwater code.ipynb : Modeling Code
 
