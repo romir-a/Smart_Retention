@@ -9,5 +9,28 @@ This code is specifically run on Washington Park lake in Albany, NY
 Files in this repository: 
 
 - Precip_data.csv : Precipitation Data from Albany Airport from 2003-2013
-- Urban Stormwater code.ipynb : Modeling Code
+- Urban Stormwater Code.ipynb : Modeling Code
+
+Instructions:
+
+Clone this repository:
+
+git clone <repository_url> cd <repository_name>
+
+Install the required Python libraries (if not already installed):
+
+pip install -r requirements.txt
+
+Note: The requirements.txt file should contain dependencies such as numpy, pandas, matplotlib, and scipy.
+
+Open the Jupyter Notebook:
+
+jupyter notebook Urban Stormwater Code.ipynb
+Follow the instructions in the notebook's markdown cells. Each section provides detailed guidance on running specific parts of the model and understanding the output.
+
+Contact
+
+For any questions or issues, please contact Romir Anand (ra493@cornell.edu)
+
+Enjoy optimizing the GERD system!
 
