@@ -13,24 +13,22 @@ Files in this repository:
 
 Instructions:
 
-Clone this repository:
+  Clone this repository:
 
-git clone <repository_url> cd <repository_name>
+  git clone <repository_url> cd <repository_name>
 
-Install the required Python libraries (if not already installed):
+  Install the required Python libraries (if not already installed):
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
-Note: The requirements.txt file should contain dependencies such as numpy, pandas, matplotlib, and scipy.
+  Note: The requirements.txt file should contain dependencies such as numpy, pandas, matplotlib, and scipy.
 
 Open the Jupyter Notebook:
 
-jupyter notebook Urban Stormwater Code.ipynb
-Follow the instructions in the notebook's markdown cells. Each section provides detailed guidance on running specific parts of the model and understanding the output.
+  jupyter notebook Urban Stormwater Code.ipynb
+  Follow the instructions in the notebook's markdown cells. Each section provides detailed guidance on running specific parts of the model and understanding the output.
 
 Contact
 
-For any questions or issues, please contact Romir Anand (ra493@cornell.edu)
-
-Enjoy optimizing the GERD system!
+  For any questions or issues, please contact Romir Anand (ra493@cornell.edu)
 
